@@ -1,0 +1,1999 @@
+
+> webcrawler@1.0.0 test
+> jest
+
+  console.log
+    https://developer.mozilla.org/en-US/docs/Glossary/Keyword
+
+      at log (crawl.js:26:13)
+
+  console.log
+    397
+
+      at log (crawl.js:27:13)
+
+  console.log
+    Skip to main content
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Skip to search
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Skip to select language
+
+      at log (crawl.js:31:17)
+
+  console.log
+    <svg id="mdn-docs-logo" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 694.9 104.4" style="enable-background:new 0 0 694.9 104.4" xml:space="preserve" role="img"><title>MDN Web Docs</title><path d="M40.3 0 11.7 92.1H0L28.5 0h11.8zm10.4 0v92.1H40.3V0h10.4zM91 0 62.5 92.1H50.8L79.3 0H91zm10.4 0v92.1H91V0h10.4z" class="logo-m"></path><path d="M627.9 95.6h67v8.8h-67v-8.8z" class="logo-_"></path><path d="M367 42h-4l-10.7 30.8h-5.5l-10.8-26h-.4l-10.5 26h-5.2L308.7 42h-3.8v-5.6H323V42h-6.5l6.8 20.4h.4l10.3-26h4.7l11.2 26h.5l5.7-20.3h-6.2v-5.6H367V42zm34.9 20c-.4 3.2-2 5.9-4.7 8.2-2.8 2.3-6.5 3.4-11.3 3.4-5.4 0-9.7-1.6-13.1-4.7-3.3-3.2-5-7.7-5-13.7 0-5.7 1.6-10.3 4.7-14s7.4-5.5 12.9-5.5c5.1 0 9.1 1.6 11.9 4.7s4.3 6.9 4.3 11.3c0 1.5-.2 3-.5 4.7h-25.6c.3 7.7 4 11.6 10.9 11.6 2.9 0 5.1-.7 6.5-2 1.5-1.4 2.5-3 3-4.9l6 .9zM394 51.3c.2-2.4-.4-4.7-1.8-6.9s-3.8-3.3-7-3.3c-3.1 0-5.3 1-6.9 3-1.5 2-2.5 4.4-2.8 7.2H394zm51 2.4c0 5-1.3 9.5-4 13.7s-6.9 6.2-12.7 6.2c-6 0-10.3-2.2-12.7-6.7-.1.4-.2 1.4-.4 2.9s-.3 2.5-.4 2.9h-7.3c.3-1.7.6-3.5.8-5.3.3-1.8.4-3.7.4-5.5V22.3h-6v-5.6H416v27c1.1-2.2 2.7-4.1 4.7-5.7 2-1.6 4.8-2.4 8.4-2.4 4.6 0 8.4 1.6 11.4 4.7 3 3.2 4.5 7.6 4.5 13.4zm-7.7.6c0-4.2-1-7.4-3-9.5-2-2.2-4.4-3.3-7.4-3.3-3.4 0-6 1.2-8 3.7-1.9 2.4-2.9 5-3 7.7V57c0 3 1 5.6 3 7.7s4.5 3.1 7.6 3.1c3.6 0 6.3-1.3 8.1-3.9 1.8-2.7 2.7-5.9 2.7-9.6zm69.2 18.5h-13.2v-7.2c-1.2 2.2-2.8 4.1-4.9 5.6-2.1 1.6-4.8 2.4-8.3 2.4-4.8 0-8.7-1.6-11.6-4.9-2.9-3.2-4.3-7.7-4.3-13.3 0-5 1.3-9.6 4-13.7 2.6-4.1 6.9-6.2 12.8-6.2 5.7 0 9.8 2.2 12.3 6.5V22.3h-8.6v-5.6h15.8v50.6h6v5.5zM493.2 56v-4.4c-.1-3-1.2-5.5-3.2-7.3s-4.4-2.8-7.2-2.8c-3.6 0-6.3 1.3-8.2 3.9-1.9 2.6-2.8 5.8-2.8 9.6 0 4.1 1 7.3 3 9.5s4.5 3.3 7.4 3.3c3.2 0 5.8-1.3 7.8-3.8 2.1-2.6 3.1-5.3 3.2-8zm53.1-1.4c0 5.6-1.8 10.2-5.3 13.7s-8.2 5.3-13.9 5.3-10.1-1.7-13.4-5.1c-3.3-3.4-5-7.9-5-13.5 0-5.3 1.6-9.9 4.7-13.7 3.2-3.8 7.9-5.7 14.2-5.7s11 1.9 14.1 5.7c3 3.7 4.6 8.1 4.6 13.3zm-7.7-.2c0-4-1-7.2-3-9.5s-4.8-3.5-8.2-3.5c-3.6 0-6.4 1.2-8.3 3.7s-2.9 5.6-2.9 9.5c0 3.7.9 6.8 2.8 9.4 1.9 2.6 4.6 3.9 8.3 3.9 3.6 0 6.4-1.3 8.4-3.8 1.9-2.6 2.9-5.8 2.9-9.7zm45 5.8c-.4 3.2-1.9 6.3-4.4 9.1-2.5 2.9-6.4 4.3-11.8 4.3-5.2 0-9.4-1.6-12.6-4.8-3.2-3.2-4.8-7.7-4.8-13.7 0-5.5 1.6-10.1 4.7-13.9 3.2-3.8 7.6-5.7 13.2-5.7 2.3 0 4.6.3 6.7.8 2.2.5 4.2 1.5 6.2 2.9l1.5 9.5-5.9.7-1.3-6.1c-2.1-1.2-4.5-1.8-7.2-1.8-3.5 0-6.1 1.2-7.7 3.7-1.7 2.5-2.5 5.7-2.5 9.6 0 4.1.9 7.3 2.7 9.5 1.8 2.3 4.4 3.4 7.8 3.4 5.2 0 8.2-2.9 9.2-8.8l6.2 1.3zm34.7 1.9c0 3.6-1.5 6.5-4.6 8.5s-7 3-11.7 3c-5.7 0-10.6-1.2-14.6-3.6l1.2-8.8 5.7.6-.2 4.7c1.1.5 2.3.9 3.6 1.1s2.6.3 3.9.3c2.4 0 4.5-.4 6.5-1.3 1.9-.9 2.9-2.2 2.9-4.1 0-1.8-.8-3.1-2.3-3.8s-3.5-1.3-5.8-1.7-4.6-.9-6.9-1.4c-2.3-.6-4.2-1.6-5.7-2.9-1.6-1.4-2.3-3.5-2.3-6.3 0-4.1 1.5-6.9 4.6-8.5s6.4-2.4 9.9-2.4c2.6 0 5 .3 7.2.9 2.2.6 4.3 1.4 6.1 2.4l.8 8.8-5.8.7-.8-5.7c-2.3-1-4.7-1.6-7.2-1.6-2.1 0-3.7.4-5.1 1.1-1.3.8-2 2-2 3.8 0 1.7.8 2.9 2.3 3.6 1.5.7 3.4 1.2 5.7 1.6 2.2.4 4.5.8 6.7 1.4 2.2.6 4.1 1.6 5.7 3 1.4 1.6 2.2 3.7 2.2 6.6zM197.6 73.2h-17.1v-5.5h3.8V51.9c0-3.7-.7-6.3-2.1-7.9-1.4-1.6-3.3-2.3-5.7-2.3-3.2 0-5.6 1.1-7.2 3.4s-2.4 4.6-2.5 6.9v15.6h6v5.5h-17.1v-5.5h3.8V51.9c0-3.8-.7-6.4-2.1-7.9-1.4-1.5-3.3-2.3-5.6-2.3-3.2 0-5.5 1.1-7.2 3.3-1.6 2.2-2.4 4.5-2.5 6.9v15.8h6.9v5.5h-20.2v-5.5h6V42.4h-6.1v-5.6h13.4v6.4c1.2-2.1 2.7-3.8 4.7-5.2 2-1.3 4.4-2 7.3-2s5.3.7 7.5 2.1c2.2 1.4 3.7 3.5 4.5 6.4 1.1-2.5 2.7-4.5 4.9-6.1s4.8-2.4 7.9-2.4c3.5 0 6.5 1.1 8.9 3.3s3.7 5.6 3.7 10.2v18.2h6.1v5.5zm42.5 0h-13.2V66c-1.2 2.2-2.8 4.1-4.9 5.6-2.1 1.6-4.8 2.4-8.3 2.4-4.8 0-8.7-1.6-11.6-4.9-2.9-3.2-4.3-7.7-4.3-13.3 0-5 1.3-9.6 4-13.7 2.6-4.1 6.9-6.2 12.8-6.2s9.8 2.2 12.3 6.5V22.7h-8.6v-5.6h15.8v50.6h6v5.5zm-13.3-16.8V52c-.1-3-1.2-5.5-3.2-7.3s-4.4-2.8-7.2-2.8c-3.6 0-6.3 1.3-8.2 3.9-1.9 2.6-2.8 5.8-2.8 9.6 0 4.1 1 7.3 3 9.5s4.5 3.3 7.4 3.3c3.2 0 5.8-1.3 7.8-3.8 2.1-2.6 3.1-5.3 3.2-8zm61.5 16.8H269v-5.5h6V51.9c0-3.7-.7-6.3-2.2-7.9-1.4-1.6-3.4-2.3-5.7-2.3-3.1 0-5.6 1-7.4 3s-2.8 4.4-2.9 7v15.9h6v5.5h-19.3v-5.5h6V42.4h-6.2v-5.6h13.6V43c2.6-4.6 6.8-6.9 12.7-6.9 3.6 0 6.7 1.1 9.2 3.3s3.7 5.6 3.7 10.2v18.2h6v5.4h-.2z" class="logo-text"></path></svg>
+
+      at log (crawl.js:31:17)
+
+  console.log
+    References
+
+      at log (crawl.js:31:17)
+
+  console.log
+    <div class="submenu-icon"></div><div class="submenu-content-container"><div class="submenu-item-heading">Overview / Web Technology</div><p class="submenu-item-description">Web technology reference for developers</p></div>
+
+      at log (crawl.js:31:17)
+
+  console.log
+    <div class="submenu-icon html"></div><div class="submenu-content-container"><div class="submenu-item-heading">HTML</div><p class="submenu-item-description">Structure of content on the web</p></div>
+
+      at log (crawl.js:31:17)
+
+  console.log
+    <div class="submenu-icon css"></div><div class="submenu-content-container"><div class="submenu-item-heading">CSS</div><p class="submenu-item-description">Code used to describe document style</p></div>
+
+      at log (crawl.js:31:17)
+
+  console.log
+    <div class="submenu-icon javascript"></div><div class="submenu-content-container"><div class="submenu-item-heading">JavaScript</div><p class="submenu-item-description">General-purpose scripting language</p></div>
+
+      at log (crawl.js:31:17)
+
+  console.log
+    <div class="submenu-icon http"></div><div class="submenu-content-container"><div class="submenu-item-heading">HTTP</div><p class="submenu-item-description">Protocol for transmitting web resources</p></div>
+
+      at log (crawl.js:31:17)
+
+  console.log
+    <div class="submenu-icon apis"></div><div class="submenu-content-container"><div class="submenu-item-heading">Web APIs</div><p class="submenu-item-description">Interfaces for building web applications</p></div>
+
+      at log (crawl.js:31:17)
+
+  console.log
+    <div class="submenu-icon"></div><div class="submenu-content-container"><div class="submenu-item-heading">Web Extensions</div><p class="submenu-item-description">Developing extensions for web browsers</p></div>
+
+      at log (crawl.js:31:17)
+
+  console.log
+    <div class="submenu-icon"></div><div class="submenu-content-container"><div class="submenu-item-heading">Web Technology</div><p class="submenu-item-description">Web technology reference for developers</p></div>
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Guides
+
+      at log (crawl.js:31:17)
+
+  console.log
+    <div class="submenu-icon learn"></div><div class="submenu-content-container"><div class="submenu-item-heading">Overview / MDN Learning Area</div><p class="submenu-item-description">Learn web development</p></div>
+
+      at log (crawl.js:31:17)
+
+  console.log
+    <div class="submenu-icon learn"></div><div class="submenu-content-container"><div class="submenu-item-heading">MDN Learning Area</div><p class="submenu-item-description">Learn web development</p></div>
+
+      at log (crawl.js:31:17)
+
+  console.log
+    <div class="submenu-icon html"></div><div class="submenu-content-container"><div class="submenu-item-heading">HTML</div><p class="submenu-item-description">Learn to structure web content with HTML</p></div>
+
+      at log (crawl.js:31:17)
+
+  console.log
+    <div class="submenu-icon css"></div><div class="submenu-content-container"><div class="submenu-item-heading">CSS</div><p class="submenu-item-description">Learn to style content using CSS</p></div>
+
+      at log (crawl.js:31:17)
+
+  console.log
+    <div class="submenu-icon javascript"></div><div class="submenu-content-container"><div class="submenu-item-heading">JavaScript</div><p class="submenu-item-description">Learn to run scripts in the browser</p></div>
+
+      at log (crawl.js:31:17)
+
+  console.log
+    <div class="submenu-icon"></div><div class="submenu-content-container"><div class="submenu-item-heading">Accessibility</div><p class="submenu-item-description">Learn to make the web accessible to all</p></div>
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Plus
+
+      at log (crawl.js:31:17)
+
+  console.log
+    <div class="submenu-icon"></div><div class="submenu-content-container"><div class="submenu-item-heading">Overview</div><p class="submenu-item-description">A customized MDN experience</p></div>
+
+      at log (crawl.js:31:17)
+
+  console.log
+    <div class="submenu-icon"></div><div class="submenu-content-container"><div class="submenu-item-heading">AI Help (beta)</div><p class="submenu-item-description">Get real-time assistance and support</p></div>
+
+      at log (crawl.js:31:17)
+
+  console.log
+    <div class="submenu-icon"></div><div class="submenu-content-container"><div class="submenu-item-heading">Updates</div><p class="submenu-item-description">All browser compatibility updates at a glance</p></div>
+
+      at log (crawl.js:31:17)
+
+  console.log
+    <div class="submenu-icon"></div><div class="submenu-content-container"><div class="submenu-item-heading">Documentation</div><p class="submenu-item-description">Learn how to use MDN Plus</p></div>
+
+      at log (crawl.js:31:17)
+
+  console.log
+    <div class="submenu-icon"></div><div class="submenu-content-container"><div class="submenu-item-heading">FAQ</div><p class="submenu-item-description">Frequently asked questions about MDN Plus</p></div>
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Curriculum<sup class="new">New</sup>
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Blog
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Play
+
+      at log (crawl.js:31:17)
+
+  console.log
+    AI Help <sup class="new beta">Beta</sup>
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Log in
+
+      at log (crawl.js:31:17)
+
+  console.log
+    <span class="button-wrap">Sign up for free</span>
+
+      at log (crawl.js:31:17)
+
+  console.log
+    <span property="name">Guides</span>
+
+      at log (crawl.js:31:17)
+
+  console.log
+    <span property="name">Getting started with the web</span>
+
+      at log (crawl.js:31:17)
+
+  console.log
+    <span property="name">HTML basics</span>
+
+      at log (crawl.js:31:17)
+
+  console.log
+    So what is HTML?
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Images
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Marking up text
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Links
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Conclusion
+
+      at log (crawl.js:31:17)
+
+  console.log
+    <strong>Complete beginners start here!</strong>
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Getting started with the web
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Installing basic software
+
+      at log (crawl.js:31:17)
+
+  console.log
+    What will your website look like?
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Dealing with files
+
+      at log (crawl.js:31:17)
+
+  console.log
+    HTML basics
+
+      at log (crawl.js:31:17)
+
+  console.log
+    CSS basics
+
+      at log (crawl.js:31:17)
+
+  console.log
+    JavaScript basics
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Publishing your website
+
+      at log (crawl.js:31:17)
+
+  console.log
+    How the web works
+
+      at log (crawl.js:31:17)
+
+  console.log
+    <strong>HTML — Structuring the web</strong>
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Introduction to HTML
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Getting started with HTML
+
+      at log (crawl.js:31:17)
+
+  console.log
+    What's in the head? Metadata in HTML
+
+      at log (crawl.js:31:17)
+
+  console.log
+    HTML text fundamentals
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Creating hyperlinks
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Advanced text formatting
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Document and website structure
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Debugging HTML
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Marking up a letter
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Structuring a page of content
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Multimedia and embedding
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Images in HTML
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Video and audio content
+
+      at log (crawl.js:31:17)
+
+  console.log
+    From object to iframe — other embedding technologies
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Adding vector graphics to the web
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Responsive images
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Mozilla splash page
+
+      at log (crawl.js:31:17)
+
+  console.log
+    HTML tables
+
+      at log (crawl.js:31:17)
+
+  console.log
+    HTML table basics
+
+      at log (crawl.js:31:17)
+
+  console.log
+    HTML table advanced features and accessibility
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Structuring planet data
+
+      at log (crawl.js:31:17)
+
+  console.log
+    <strong>CSS — Styling the web</strong>
+
+      at log (crawl.js:31:17)
+
+  console.log
+    CSS first steps overview
+
+      at log (crawl.js:31:17)
+
+  console.log
+    What is CSS?
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Getting started with CSS
+
+      at log (crawl.js:31:17)
+
+  console.log
+    How CSS is structured
+
+      at log (crawl.js:31:17)
+
+  console.log
+    How CSS works
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Styling a biography page
+
+      at log (crawl.js:31:17)
+
+  console.log
+    CSS building blocks
+
+      at log (crawl.js:31:17)
+
+  console.log
+    CSS selectors
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Type, class, and ID selectors
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Attribute selectors
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Pseudo-classes and pseudo-elements
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Combinators
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Cascade, specificity, and inheritance
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Cascade layers
+
+      at log (crawl.js:31:17)
+
+  console.log
+    The box model
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Backgrounds and borders
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Handling different text directions
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Overflowing content
+
+      at log (crawl.js:31:17)
+
+  console.log
+    CSS values and units
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Sizing items in CSS
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Images, media, and form elements
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Styling tables
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Debugging CSS
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Organizing your CSS
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Fundamental CSS comprehension
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Creating fancy letterheaded paper
+
+      at log (crawl.js:31:17)
+
+  console.log
+    A cool-looking box
+
+      at log (crawl.js:31:17)
+
+  console.log
+    CSS styling text
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Fundamental text and font styling
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Styling lists
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Styling links
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Web fonts
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Typesetting a community school homepage
+
+      at log (crawl.js:31:17)
+
+  console.log
+    CSS layout
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Introduction to CSS layout
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Normal Flow
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Flexbox
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Grids
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Floats
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Positioning
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Multiple-column layout
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Responsive design
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Beginner's guide to media queries
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Legacy layout methods
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Supporting older browsers
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Fundamental layout comprehension
+
+      at log (crawl.js:31:17)
+
+  console.log
+    <strong>JavaScript — Dynamic client-side scripting</strong>
+
+      at log (crawl.js:31:17)
+
+  console.log
+    JavaScript First Steps
+
+      at log (crawl.js:31:17)
+
+  console.log
+    What is JavaScript?
+
+      at log (crawl.js:31:17)
+
+  console.log
+    A first splash into JavaScript
+
+      at log (crawl.js:31:17)
+
+  console.log
+    What went wrong? Troubleshooting JavaScript
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Storing the information you need — Variables
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Basic math in JavaScript — numbers and operators
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Handling text — strings in JavaScript
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Useful string methods
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Arrays
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Silly story generator
+
+      at log (crawl.js:31:17)
+
+  console.log
+    JavaScript building blocks
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Making decisions in your code — conditionals
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Looping code
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Functions — reusable blocks of code
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Build your own function
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Function return values
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Introduction to events
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Image gallery
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Introducing JavaScript objects
+
+      at log (crawl.js:31:17)
+
+  console.log
+    JavaScript object basics
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Object prototypes
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Object-oriented programming
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Classes in JavaScript
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Working with JSON
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Object building practice
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Adding features to our bouncing balls demo
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Asynchronous JavaScript
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Introducing asynchronous JavaScript
+
+      at log (crawl.js:31:17)
+
+  console.log
+    How to use promises
+
+      at log (crawl.js:31:17)
+
+  console.log
+    How to implement a promise-based API
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Introducing workers
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Sequencing animations
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Client-side web APIs
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Introduction to web APIs
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Manipulating documents
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Fetching data from the server
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Third-party APIs
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Drawing graphics
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Video and Audio APIs
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Client-side storage
+
+      at log (crawl.js:31:17)
+
+  console.log
+    <strong>Web forms — Working with user data</strong>
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Web forms — Working with user data
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Your first form
+
+      at log (crawl.js:31:17)
+
+  console.log
+    How to structure a web form
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Basic native form controls
+
+      at log (crawl.js:31:17)
+
+  console.log
+    The HTML5 input types
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Other form controls
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Styling web forms
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Advanced form styling
+
+      at log (crawl.js:31:17)
+
+  console.log
+    UI pseudo-classes
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Client-side form validation
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Sending form data
+
+      at log (crawl.js:31:17)
+
+  console.log
+    How to build custom form controls
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Sending forms through JavaScript
+
+      at log (crawl.js:31:17)
+
+  console.log
+    CSS property compatibility table for form controls
+
+      at log (crawl.js:31:17)
+
+  console.log
+    HTML forms in legacy browsers
+
+      at log (crawl.js:31:17)
+
+  console.log
+    <strong>Accessibility — Make the web usable by everyone</strong>
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Accessibility
+
+      at log (crawl.js:31:17)
+
+  console.log
+    What is accessibility?
+
+      at log (crawl.js:31:17)
+
+  console.log
+    HTML: A good basis for accessibility
+
+      at log (crawl.js:31:17)
+
+  console.log
+    CSS and JavaScript accessibility best practices
+
+      at log (crawl.js:31:17)
+
+  console.log
+    WAI-ARIA basics
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Accessible multimedia
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Mobile accessibility
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Assessment: Accessibility troubleshooting
+
+      at log (crawl.js:31:17)
+
+  console.log
+    <strong>Performance — Making websites fast and responsive</strong>
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Web performance
+
+      at log (crawl.js:31:17)
+
+  console.log
+    The "why" of web performance
+
+      at log (crawl.js:31:17)
+
+  console.log
+    What is web performance?
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Perceived performance
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Measuring performance
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Multimedia: Images
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Multimedia: video
+
+      at log (crawl.js:31:17)
+
+  console.log
+    JavaScript performance optimization
+
+      at log (crawl.js:31:17)
+
+  console.log
+    HTML performance optimization
+
+      at log (crawl.js:31:17)
+
+  console.log
+    CSS performance optimization
+
+      at log (crawl.js:31:17)
+
+  console.log
+    The business case for web performance
+
+      at log (crawl.js:31:17)
+
+  console.log
+    <strong>MathML — Writing mathematics with MathML</strong>
+
+      at log (crawl.js:31:17)
+
+  console.log
+    MathML first steps overview
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Getting started with MathML
+
+      at log (crawl.js:31:17)
+
+  console.log
+    MathML Text Containers
+
+      at log (crawl.js:31:17)
+
+  console.log
+    MathML fractions and roots
+
+      at log (crawl.js:31:17)
+
+  console.log
+    MathML scripted elements
+
+      at log (crawl.js:31:17)
+
+  console.log
+    MathML tables
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Three famous mathematical formulas
+
+      at log (crawl.js:31:17)
+
+  console.log
+    <strong>Games — Developing games for the web</strong>
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Introduction to game development for the Web
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Techniques for game development
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Tutorials
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Publishing games
+
+      at log (crawl.js:31:17)
+
+  console.log
+    <strong>Tools and testing</strong>
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Understanding client-side web development tools
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Client-side tooling overview
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Command line crash course
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Package management basics
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Introducing a complete toolchain
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Deploying our app
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Introduction to client-side frameworks
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Framework main features
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Getting started with React
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Beginning our React todo list
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Componentizing our React app
+
+      at log (crawl.js:31:17)
+
+  console.log
+    React interactivity: Events and state
+
+      at log (crawl.js:31:17)
+
+  console.log
+    React interactivity: Editing, filtering, conditional rendering
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Accessibility in React
+
+      at log (crawl.js:31:17)
+
+  console.log
+    React resources
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Getting started with Ember
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Ember app structure and componentization
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Ember interactivity: Events, classes and state
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Ember Interactivity: Footer functionality, conditional rendering
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Routing in Ember
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Ember resources and troubleshooting
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Getting started with Vue
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Creating our first Vue component
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Rendering a list of Vue components
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Adding a new todo form: Vue events, methods, and models
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Styling Vue components with CSS
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Using Vue computed properties
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Vue conditional rendering: editing existing todos
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Vue refs and lifecycle methods for focus management
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Vue resources
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Getting started with Svelte
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Starting our Svelte to-do list app
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Dynamic behavior in Svelte: working with variables and props
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Componentizing our Svelte app
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Advanced Svelte: Reactivity, lifecycle, accessibility
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Working with Svelte stores
+
+      at log (crawl.js:31:17)
+
+  console.log
+    TypeScript support in Svelte
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Deployment and next steps
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Getting started with Angular
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Beginning our Angular todo list app
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Styling our Angular app
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Creating an item component
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Filtering our to-do items
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Building Angular applications and further resources
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Git and GitHub
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Cross browser testing
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Introduction to cross-browser testing
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Strategies for carrying out testing
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Handling common HTML and CSS problems
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Handling common JavaScript problems
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Handling common accessibility problems
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Implementing feature detection
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Introduction to automated testing
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Setting up your own test automation environment
+
+      at log (crawl.js:31:17)
+
+  console.log
+    <strong>Server-side website programming</strong>
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Server-side website programming first steps
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Introduction to the server side
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Client-Server Overview
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Server-side web frameworks
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Website security
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Django Web Framework (Python)
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Django introduction
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Setting up a Django development environment
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Django Tutorial: The Local Library website
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Django Tutorial Part 2: Creating a skeleton website
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Django Tutorial Part 3: Using models
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Django Tutorial Part 4: Django admin site
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Django Tutorial Part 5: Creating our home page
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Django Tutorial Part 6: Generic list and detail views
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Django Tutorial Part 7: Sessions framework
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Django Tutorial Part 8: User authentication and permissions
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Django Tutorial Part 9: Working with forms
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Django Tutorial Part 10: Testing a Django web application
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Django Tutorial Part 11: Deploying Django to production
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Django web application security
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Assessment: DIY Django mini blog
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Express web framework (Node.js/JavaScript)
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Express/Node introduction
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Setting up a Node development environment
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Express Tutorial: The Local Library website
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Express Tutorial Part 2: Creating a skeleton website
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Express Tutorial Part 3: Using a Database (with Mongoose)
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Express Tutorial Part 4: Routes and controllers
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Express Tutorial Part 5: Displaying library data
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Express Tutorial Part 6: Working with forms
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Express Tutorial Part 7: Deploying to production
+
+      at log (crawl.js:31:17)
+
+  console.log
+    <strong>Further resources</strong>
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Common questions
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Use HTML to solve common problems
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Use CSS to solve common problems
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Solve common problems in your JavaScript code
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Web mechanics
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Tools and setup
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Design and accessibility
+
+      at log (crawl.js:31:17)
+
+  console.log
+    So what is HTML?
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Images
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Marking up text
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Links
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Conclusion
+
+      at log (crawl.js:31:17)
+
+  console.log
+    <span class="button-wrap"> Previous </span>
+
+      at log (crawl.js:31:17)
+
+  console.log
+    <span class="button-wrap"> Overview: Getting started with the web</span>
+
+      at log (crawl.js:31:17)
+
+  console.log
+    <span class="button-wrap"> Next  </span>
+
+      at log (crawl.js:31:17)
+
+  console.log
+    So what is HTML?
+
+      at log (crawl.js:31:17)
+
+  console.log
+    elements
+
+      at log (crawl.js:31:17)
+
+  console.log
+    tags
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Anatomy of an HTML element
+
+      at log (crawl.js:31:17)
+
+  console.log
+    <code>required</code>
+
+      at log (crawl.js:31:17)
+
+  console.log
+    ASCII
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Nesting elements
+
+      at log (crawl.js:31:17)
+
+  console.log
+    <code>&lt;strong&gt;</code>
+
+      at log (crawl.js:31:17)
+
+  console.log
+    <code>&lt;p&gt;</code>
+
+      at log (crawl.js:31:17)
+
+  console.log
+    <code>&lt;strong&gt;</code>
+
+      at log (crawl.js:31:17)
+
+  console.log
+    <code>&lt;strong&gt;</code>
+
+      at log (crawl.js:31:17)
+
+  console.log
+    <code>&lt;p&gt;</code>
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Void elements
+
+      at log (crawl.js:31:17)
+
+  console.log
+    void elements
+
+      at log (crawl.js:31:17)
+
+  console.log
+    <code>&lt;img&gt;</code>
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Anatomy of an HTML document
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Dealing with files
+
+      at log (crawl.js:31:17)
+
+  console.log
+    doctype
+
+      at log (crawl.js:31:17)
+
+  console.log
+    <code>&lt;html&gt;</code>
+
+      at log (crawl.js:31:17)
+
+  console.log
+    <code>&lt;head&gt;</code>
+
+      at log (crawl.js:31:17)
+
+  console.log
+    keywords
+
+      at log (crawl.js:31:17)
+
+  console.log
+    viewport element
+
+      at log (crawl.js:31:17)
+
+  console.log
+    <code>&lt;title&gt;</code>
+
+      at log (crawl.js:31:17)
+
+  console.log
+    <code>&lt;body&gt;</code>
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Images
+
+      at log (crawl.js:31:17)
+
+  console.log
+    <code>&lt;img&gt;</code>
+
+      at log (crawl.js:31:17)
+
+  console.log
+    <code>alt</code> attribute
+
+      at log (crawl.js:31:17)
+
+  console.log
+    accessibility learning module
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Marking up text
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Headings
+
+      at log (crawl.js:31:17)
+
+  console.log
+    &lt;h1&gt; - &lt;h6&gt;
+
+      at log (crawl.js:31:17)
+
+  console.log
+    <code>&lt;img&gt;</code>
+
+      at log (crawl.js:31:17)
+
+  console.log
+    accessibility
+
+      at log (crawl.js:31:17)
+
+  console.log
+    other reasons such as SEO
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Paragraphs
+
+      at log (crawl.js:31:17)
+
+  console.log
+    <code>&lt;p&gt;</code>
+
+      at log (crawl.js:31:17)
+
+  console.log
+    <em>What will your website look like?</em>
+
+      at log (crawl.js:31:17)
+
+  console.log
+    <code>&lt;img&gt;</code>
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Lists
+
+      at log (crawl.js:31:17)
+
+  console.log
+    <code>&lt;ul&gt;</code>
+
+      at log (crawl.js:31:17)
+
+  console.log
+    <code>&lt;ol&gt;</code>
+
+      at log (crawl.js:31:17)
+
+  console.log
+    <code>&lt;li&gt;</code>
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Links
+
+      at log (crawl.js:31:17)
+
+  console.log
+    <code>&lt;a&gt;</code>
+
+      at log (crawl.js:31:17)
+
+  console.log
+    <code>&lt;a&gt;</code>
+
+      at log (crawl.js:31:17)
+
+  console.log
+    <code>&lt;a&gt;</code>
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Conclusion
+
+      at log (crawl.js:31:17)
+
+  console.log
+    view it here
+
+      at log (crawl.js:31:17)
+
+  console.log
+    finished example code
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Learning HTML
+
+      at log (crawl.js:31:17)
+
+  console.log
+    <span class="button-wrap"> Previous </span>
+
+      at log (crawl.js:31:17)
+
+  console.log
+    <span class="button-wrap"> Overview: Getting started with the web</span>
+
+      at log (crawl.js:31:17)
+
+  console.log
+    <span class="button-wrap"> Next  </span>
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Edit the page on GitHub
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Report the content issue
+
+      at log (crawl.js:31:17)
+
+  console.log
+    View the source on GitHub
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Learn how to contribute
+
+      at log (crawl.js:31:17)
+
+  console.log
+    MDN contributors
+
+      at log (crawl.js:31:17)
+
+  console.log
+    <svg width="48" height="17" viewBox="0 0 48 17" fill="none" xmlns="http://www.w3.org/2000/svg"><title id="mdn-footer-logo-svg">MDN logo</title><path d="M20.04 16.512H15.504V10.416C15.504 9.488 15.344 8.824 15.024 8.424C14.72 8.024 14.264 7.824 13.656 7.824C12.92 7.824 12.384 8.064 12.048 8.544C11.728 9.024 11.568 9.64 11.568 10.392V14.184H13.008V16.512H8.472V10.416C8.472 9.488 8.312 8.824 7.992 8.424C7.688 8.024 7.232 7.824 6.624 7.824C5.872 7.824 5.336 8.064 5.016 8.544C4.696 9.024 4.536 9.64 4.536 10.392V14.184H6.6V16.512H0V14.184H1.44V8.04H0.024V5.688H4.536V7.32C5.224 6.088 6.32 5.472 7.824 5.472C8.608 5.472 9.328 5.664 9.984 6.048C10.64 6.432 11.096 7.016 11.352 7.8C11.992 6.248 13.168 5.472 14.88 5.472C15.856 5.472 16.72 5.776 17.472 6.384C18.224 6.992 18.6 7.936 18.6 9.216V14.184H20.04V16.512Z" fill="currentColor"></path><path d="M33.6714 16.512H29.1354V14.496C28.8314 15.12 28.3834 15.656 27.7914 16.104C27.1994 16.536 26.4154 16.752 25.4394 16.752C24.0154 16.752 22.8954 16.264 22.0794 15.288C21.2634 14.312 20.8554 12.984 20.8554 11.304C20.8554 9.688 21.2554 8.312 22.0554 7.176C22.8554 6.04 24.0634 5.472 25.6794 5.472C26.5594 5.472 27.2794 5.648 27.8394 6C28.3994 6.352 28.8314 6.8 29.1354 7.344V2.352H26.9754V0H32.2314V14.184H33.6714V16.512ZM29.1354 11.04V10.776C29.1354 9.88 28.8954 9.184 28.4154 8.688C27.9514 8.176 27.3674 7.92 26.6634 7.92C25.9754 7.92 25.3674 8.176 24.8394 8.688C24.3274 9.2 24.0714 10.008 24.0714 11.112C24.0714 12.152 24.3114 12.944 24.7914 13.488C25.2714 14.032 25.8394 14.304 26.4954 14.304C27.3114 14.304 27.9514 13.96 28.4154 13.272C28.8954 12.584 29.1354 11.84 29.1354 11.04Z" fill="currentColor"></path><path d="M47.9589 16.512H41.9829V14.184H43.4229V10.416C43.4229 9.488 43.2629 8.824 42.9429 8.424C42.6389 8.024 42.1829 7.824 41.5749 7.824C40.8389 7.824 40.2709 8.056 39.8709 8.52C39.4709 8.968 39.2629 9.56 39.2469 10.296V14.184H40.6869V16.512H34.7109V14.184H36.1509V8.04H34.5909V5.688H39.2469V7.344C39.9669 6.096 41.1269 5.472 42.7269 5.472C43.7509 5.472 44.6389 5.776 45.3909 6.384C46.1429 6.992 46.5189 7.936 46.5189 9.216V14.184H47.9589V16.512Z" fill="currentColor"></path></svg>
+
+      at log (crawl.js:31:17)
+
+  console.log
+    <span class="visually-hidden">MDN on Mastodon</span>
+
+      at log (crawl.js:31:17)
+
+  console.log
+    <span class="visually-hidden">MDN on Twitter</span>
+
+      at log (crawl.js:31:17)
+
+  console.log
+    <span class="visually-hidden">MDN on GitHub</span>
+
+      at log (crawl.js:31:17)
+
+  console.log
+    <span class="visually-hidden">MDN Blog RSS Feed</span>
+
+      at log (crawl.js:31:17)
+
+  console.log
+    About
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Blog
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Careers
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Advertise with us
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Product help
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Report an issue
+
+      at log (crawl.js:31:17)
+
+  console.log
+    MDN Community
+
+      at log (crawl.js:31:17)
+
+  console.log
+    MDN Forum
+
+      at log (crawl.js:31:17)
+
+  console.log
+    MDN Chat
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Web Technologies
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Learn Web Development
+
+      at log (crawl.js:31:17)
+
+  console.log
+    MDN Plus
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Hacks Blog
+
+      at log (crawl.js:31:17)
+
+  console.log
+    <svg width="112" height="32" fill="none" xmlns="http://www.w3.org/2000/svg"><title id="mozilla-footer-logo-svg">Mozilla logo</title><path d="M41.753 14.218c-2.048 0-3.324 1.522-3.324 4.157 0 2.423 1.119 4.286 3.29 4.286 2.082 0 3.447-1.678 3.447-4.347 0-2.826-1.522-4.096-3.413-4.096Zm54.89 7.044c0 .901.437 1.618 1.645 1.618 1.427 0 2.949-1.024 3.044-3.352-.649-.095-1.365-.185-2.02-.185-1.426-.005-2.668.397-2.668 1.92Z" fill="currentColor"></path><path d="M0 0v32h111.908V0H0Zm32.56 25.426h-5.87v-7.884c0-2.423-.806-3.352-2.39-3.352-1.924 0-2.702 1.365-2.702 3.324v4.868h1.864v3.044h-5.864v-7.884c0-2.423-.806-3.352-2.39-3.352-1.924 0-2.702 1.365-2.702 3.324v4.868h2.669v3.044H6.642v-3.044h1.863v-7.918H6.642V11.42h5.864v2.11c.839-1.489 2.3-2.39 4.252-2.39 2.02 0 3.878.963 4.566 3.01.778-1.862 2.361-3.01 4.566-3.01 2.512 0 4.812 1.522 4.812 4.84v6.402h1.863v3.044h-.005Zm9.036.307c-4.314 0-7.296-2.635-7.296-7.106 0-4.096 2.484-7.481 7.514-7.481s7.481 3.38 7.481 7.29c0 4.472-3.228 7.297-7.699 7.297Zm22.578-.307H51.942l-.403-2.11 7.7-8.846h-4.376l-.621 2.17-2.888-.313.498-4.907h12.294l.313 2.11-7.767 8.852h4.533l.654-2.172 3.167.308-.872 4.908Zm7.99 0h-4.191v-5.03h4.19v5.03Zm0-8.976h-4.191v-5.03h4.19v5.03Zm2.618 8.976 6.054-21.358h3.945l-6.054 21.358h-3.945Zm8.136 0 6.048-21.358h3.945l-6.054 21.358h-3.939Zm21.486.307c-1.863 0-2.887-1.085-3.072-2.792-.805 1.427-2.232 2.792-4.498 2.792-2.02 0-4.314-1.085-4.314-4.006 0-3.447 3.323-4.253 6.518-4.253.778 0 1.584.034 2.3.124v-.465c0-1.427-.034-3.133-2.3-3.133-.84 0-1.488.061-2.143.402l-.453 1.578-3.195-.34.549-3.224c2.45-.996 3.692-1.27 5.992-1.27 3.01 0 5.556 1.55 5.556 4.75v6.083c0 .805.314 1.085.963 1.085.184 0 .375-.034.587-.095l.034 2.11a5.432 5.432 0 0 1-2.524.654Z" fill="currentColor"></path></svg>
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Website Privacy Notice
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Cookies
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Legal
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Community Participation Guidelines
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Mozilla Corporation’s
+
+      at log (crawl.js:31:17)
+
+  console.log
+    Mozilla Foundation
+
+      at log (crawl.js:31:17)
+
+  console.log
+    a Creative Commons license
+
+      at log (crawl.js:31:17)
+
